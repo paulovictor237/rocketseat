@@ -1,12 +1,11 @@
 import React from 'react'
+import {App} from './App'
 
-function App(){
-    return <h1>Hello Wodld</h1>
-}
-
-const user = {
-    name: 'Diego',
-}
-
-console.log(user.adress?.street)
+// function Wrapper(){
+//     return <h1>Hello Wodld</h1>
+// }
+// const user = {
+//     name: 'Diego',
+// }
+// console.log(user.adress?.street)
 
