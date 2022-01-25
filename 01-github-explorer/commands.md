@@ -1,6 +1,6 @@
 # Comandos da Aula
 
 ```bash
-yarn add style-loader css-loader -D
+yarn add node-sass sass-loader -D
 yarn dev
 ```
