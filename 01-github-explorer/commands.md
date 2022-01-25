@@ -1,4 +1,4 @@
-# Day 1 - Babel
+# Aula 1 - Babel
 
 Babel é um framework que permite alguns atalhos nos comandos e também comprime alguns códigos.
 ```bash
@@ -10,17 +10,23 @@ yarn add @babel/preset-react -D
 yarn babel src/index.js -o dist/bundle.js
 yarn babel src/index.js --out-file dist/bundle.js
 ```
-# Day 2 - Webpack
+# Aula 3 - Webpack
 
 webpack converte o código react para executer no browser
 ```bash
 yarn add webpack webpack-cli babel-loader -D
 yarn webpack
 ```
-
-# Day 2 - Webpack
+# Aula 4 - Webpack
 
 Cria o primeiro react app
 ```bash
 yarn webpack
+```
+# Aula 5 - Webpack
+
+Cria o primeiro react app
+```bash
+yarn html-webpack-plugin
+yarn webpack 
 ```
