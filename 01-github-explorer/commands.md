@@ -27,6 +27,21 @@ yarn webpack
 
 Cria o primeiro react app
 ```bash
-yarn html-webpack-plugin
+yarn add html-webpack-plugin -D
 yarn webpack 
+```
+
+# Aula 6 - React
+
+Cria o primeiro react app
+```bash
+yarn add webpack-dev-server -D
+yarn webpack server
+```
+
+# Aula 7 - React
+
+```bash
+yarn add webpack-dev-server -D
+yarn webpack server
 ```
