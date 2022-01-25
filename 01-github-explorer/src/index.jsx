@@ -1,11 +1,5 @@
-import React from 'react'
-import {App} from './App'
+// import React from 'react';
+import {render} from 'react-dom';
+import {App} from './App';
 
-// function Wrapper(){
-//     return <h1>Hello Wodld</h1>
-// }
-// const user = {
-//     name: 'Diego',
-// }
-// console.log(user.adress?.street)
-
+render(<App/>,document.getElementById('root'))

@@ -17,3 +17,10 @@ webpack converte o código react para executer no browser
 yarn add webpack webpack-cli babel-loader -D
 yarn webpack
 ```
+
+# Day 2 - Webpack
+
+Cria o primeiro react app
+```bash
+yarn webpack
+```
